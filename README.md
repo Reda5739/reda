@@ -1,3 +1,2 @@
 # reda
-Hyvä tehtävä
 Ohjelmointiympäristö
